@@ -1,0 +1,9 @@
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\bin\Debug\WindowsForms_Aula1_calculadora.exe
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\bin\Debug\WindowsForms_Aula1_calculadora.pdb
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\WindowsForms_Aula1_calculadora.Form1.resources
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\WindowsForms_Aula1_calculadora.Properties.Resources.resources
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\WindowsForms_Aula1_calculadora.exe
+C:\Users\Lab2\Documents\Project\WindowsForms_Aula1_calculadora\WindowsForms_Aula1_calculadora\obj\x86\Debug\WindowsForms_Aula1_calculadora.pdb
