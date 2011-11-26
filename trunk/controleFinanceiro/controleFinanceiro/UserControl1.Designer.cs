@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApplication2
+﻿namespace controleFinanceiro
 {
     partial class UserControl1
     {

@@ -1,0 +1,11 @@
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\bin\Debug\controleFinanceiro.exe
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\bin\Debug\controleFinanceiro.pdb
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\controleFinanceiro.Properties.Resources.resources
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\controleFinanceiro.exe
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\controleFinanceiro.pdb
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\controleFinanceiro.CadastroUsuario.resources
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\controleFinanceiro.MenuPrincipal.resources
+C:\Users\Lab2\Documents\Project\controleFinanceiro\controleFinanceiro\obj\x86\Debug\controleFinanceiro.TelaLoginUsuario.resources
