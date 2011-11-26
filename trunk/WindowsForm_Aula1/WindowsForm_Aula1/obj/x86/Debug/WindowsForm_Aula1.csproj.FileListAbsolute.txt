@@ -1,0 +1,10 @@
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\bin\Debug\WindowsForm_Aula1.exe
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\bin\Debug\WindowsForm_Aula1.pdb
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\WindowsForm_Aula1.Form1.resources
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\WindowsForm_Aula1.Properties.Resources.resources
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\WindowsForm_Aula1.exe
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\WindowsForm_Aula1.pdb
+C:\Users\Lab2\Documents\Project\WindowsForm_Aula1\WindowsForm_Aula1\obj\x86\Debug\WindowsForm_Aula1.Form2.resources

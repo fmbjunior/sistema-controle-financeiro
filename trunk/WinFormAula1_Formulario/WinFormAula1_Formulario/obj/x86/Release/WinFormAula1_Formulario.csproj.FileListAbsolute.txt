@@ -1,0 +1,6 @@
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Release\WinFormAula1_Formulario.cadastroCliente.resources
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Release\WinFormAula1_Formulario.form_empresa.resources
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Release\WinFormAula1_Formulario.Properties.Resources.resources
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Release\GenerateResource.write.1.tlog

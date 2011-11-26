@@ -1,0 +1,10 @@
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\WinFormAula1_Formulario.cadastroCliente.resources
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\WinFormAula1_Formulario.form_empresa.resources
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\WinFormAula1_Formulario.Properties.Resources.resources
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\bin\Debug\WinFormAula1_Formulario.exe
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\bin\Debug\WinFormAula1_Formulario.pdb
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\WinFormAula1_Formulario.exe
+C:\Users\Lab2\Documents\Project\WinFormAula1_Formulario\WinFormAula1_Formulario\obj\x86\Debug\WinFormAula1_Formulario.pdb
