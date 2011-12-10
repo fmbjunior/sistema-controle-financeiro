@@ -1,0 +1,12 @@
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\bin\Debug\ExercicioLocadora.pdb
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\ExercicioLocadora.Locadora.resources
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\ExercicioLocadora.Properties.Resources.resources
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\ExercicioLocadora.exe
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\ExercicioLocadora.pdb
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\obj\x86\Debug\ExercicioLocadora.ListaFilmes.resources
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\bin\Debug\locadora2.mdf
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\bin\Debug\locadora2_log.ldf
+C:\Users\Lab2\Documents\Project\ExercicioLocadora\ExercicioLocadora\bin\Debug\ExercicioLocadora.exe.config
